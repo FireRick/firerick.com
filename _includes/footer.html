@@ -18,7 +18,7 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-            <li>Copyright &copy; 2019 &middot; All Rights Reserved &middot; <a href="http://china4china.com/" >China4China.com</a></li>
+            <li>Copyright &copy; 2019 &middot; All Rights Reserved &middot; <a href="{{ site.url | escape }}" >{{ site.title | escape }}</a></li>
         </ul>
       </div>
 
