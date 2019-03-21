@@ -1,9 +1,9 @@
-title: China4China.com
+title: FireRick.com
 author: FireRick
 email: rickdonma@gmail.com
 description: A blog dedicated to sharing interesting things in China. If you are curious about China, please feel free to contact me at any time. I am very happy to answer for you.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://china4china.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://firerick.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
